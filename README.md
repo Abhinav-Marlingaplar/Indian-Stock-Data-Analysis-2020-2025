@@ -52,7 +52,7 @@ The analysis includes the following:
 
 4.  **Open the notebook:**
     * Jupyter Notebook will open in your default web browser. You will see a list of files and folders.
-    * Navigate to folder 'Stock_Market_Project' and open the notebook file named `Project.ipynb`.
+    * Navigate to folder `Stock_Market_Project` and open the notebook file named `Project.ipynb`.
 ## Author
 
 Abhinav Marlingaplar
