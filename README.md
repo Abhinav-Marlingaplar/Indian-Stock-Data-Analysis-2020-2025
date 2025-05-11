@@ -56,10 +56,6 @@ The analysis includes the following:
     * Jupyter Notebook will open in your default web browser.  You will see a list of files and folders.
     * Navigate to the location of the notebook file (e.g., `your-notebook-name.ipynb`) and click on it to open it.  You can then run the code cells in the notebook.
 
-## Results
-
-The analysis provides insights into the historical performance of the selected stocks, including their growth trajectories, volatility, and risk-reward characteristics.  Key findings are summarized in the notebook.
-
 ## Author
 
 Abhinav Marlingaplar
