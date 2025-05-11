@@ -32,8 +32,8 @@ The analysis includes the following:
     * Python 3.x
     * Required Python libraries: `yfinance`, `pandas`, `matplotlib`
 2.  **Installation:**
-    * Clone this repository:  `git clone https://github.com/yourusername/your-repository-name.git`
-    * Navigate to the project directory: `cd your-repository-name`
+    * Clone this repository:  `git clone https://github.com/Abhinav-Marlingaplar/Indian-Stock-Data-Analysis-2020-2025.git`
+    * Navigate to the project directory: `cd Stock_Market_Project`
 
 ## How to Run the Jupyter Notebook
 
@@ -45,8 +45,8 @@ The analysis includes the following:
 2.  **Navigate to the project directory:**
     * Use the `cd` command to change the current directory to the location where you cloned the repository.  For example: `cd your-repository-name`
     * If you cloned the repository into a specific location (e.g., your documents folder), you'll need to use the full path.  For example:
-        * macOS/Linux: `cd /Users/yourusername/Documents/your-repository-name`
-        * Windows: `cd C:\Users\YourUsername\Documents\your-repository-name`
+        * macOS/Linux: `cd /Users/yourusername/Documents/Stock_Market_Project`
+        * Windows: `cd C:\Users\YourUsername\Documents\Stock_Market_Project`
 
 3.  **Run the Jupyter Notebook:**
     * Once you are in the project directory, start the Jupyter Notebook server by typing:
