@@ -31,31 +31,28 @@ The analysis includes the following:
 1.  **Prerequisites:**
     * Python 3.x
     * Required Python libraries: `yfinance`, `pandas`, `matplotlib`
+
 2.  **Installation:**
-    * Clone this repository:  `git clone https://github.com/Abhinav-Marlingaplar/Indian-Stock-Data-Analysis-2020-2025.git`
-    * Navigate to the project directory: `cd Stock_Market_Project`
+    * Clone this repository: `git clone https://github.com/Abhinav-Marlingaplar/Indian-Stock-Data-Analysis-2020-2025.git`
+    * Navigate to the project directory: `cd Indian-Stock-Data-Analysis-2020-2025`
+    * Install the required libraries:  `pip install yfinance pandas matplotlib`
 
 ## How to Run the Jupyter Notebook
 
 1.  **Open a terminal or command prompt:**
-    * **Windows:** Press the Windows key, type "cmd" or "Command Prompt," and press Enter.  If you have Git installed, you can use "Git Bash."
+    * **Windows:** Press the Windows key, type "cmd" or "Command Prompt," and press Enter. If you have Git installed, you can use "Git Bash."
     * **macOS:** Open "Terminal" from the /Applications/Utilities folder.
     * **Linux:** Open the terminal using your distribution's standard method (e.g., Ctrl+Alt+T).
 
 2.  **Navigate to the project directory:**
-    * Use the `cd` command to change the current directory to the location where you cloned the repository.  For example: `cd your-repository-name`
-    * If you cloned the repository into a specific location (e.g., your documents folder), you'll need to use the full path.  For example:
-        * macOS/Linux: `cd /Users/yourusername/Documents/Stock_Market_Project`
-        * Windows: `cd C:\Users\YourUsername\Documents\Stock_Market_Project`
+    * Use the `cd` command to change the current directory to the location where you cloned the repository. For example: `cd Indian-Stock-Data-Analysis-2020-2025`
 
 3.  **Run the Jupyter Notebook:**
-    * Once you are in the project directory, start the Jupyter Notebook server by typing:
-        `jupyter notebook`
+    * Once you are in the project directory, start the Jupyter Notebook server by typing: `jupyter notebook`
 
-4.  **Open the notebook in your browser:**
-    * Jupyter Notebook will open in your default web browser.  You will see a list of files and folders.
-    * Navigate to the location of the notebook file (e.g., `your-notebook-name.ipynb`) and click on it to open it.  You can then run the code cells in the notebook.
-
+4.  **Open the notebook:**
+    * Jupyter Notebook will open in your default web browser. You will see a list of files and folders.
+    * Navigate to and open the notebook file named `Project.ipynb`.
 ## Author
 
 Abhinav Marlingaplar
