@@ -1,5 +1,9 @@
 # Indian Stock Market Analysis (2020-2025)
 
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)
+![Libraries](https://img.shields.io/badge/Libraries-Pandas%2CNumPy%2CMatplotlib%2CSeaborn-brightgreen.svg)
+
 ## Overview
 
 This project is an exploratory data analysis (EDA) of the Indian stock market, focusing on the performance of three major companies: Reliance Industries (RELIANCE.NS), Larsen & Toubro (LT.NS), and Tata Consultancy Services (TCS.NS). The analysis covers the period from January 1, 2020, to May 10, 2025.
